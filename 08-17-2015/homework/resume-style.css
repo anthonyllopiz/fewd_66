@@ -1,0 +1,26 @@
+body {
+	background-color: blue;
+	color: orange;
+	font-size: 20px;
+	text-align: center;
+	}
+h1 {
+	color: yellow;
+	font-size: 75;
+}
+h2 {
+	color: yellow;
+	font-size: 50px;
+}
+
+p {
+	font-size: 20px;
+	}
+a {
+	color: red;
+	font-size: 20px;
+	text-align: center;
+}
+ol{
+	text-align: center;
+}
