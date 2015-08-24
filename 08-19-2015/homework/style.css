@@ -1,0 +1,57 @@
+.body {
+	background-color: #5D417F;
+	color: orange;
+}
+
+.section1 {
+	background-color: #38007F;
+	text-align: center;
+	border: 1000px;
+}
+
+.experience {
+	background-color: #9D4FFF;
+	text-align: center;
+}
+
+.education {
+	background-color: #7100FF;
+	text-align: center;
+}
+
+.pagelink {
+	background-color: white;
+	text-align: center;
+}
+
+.bodypage2 {
+	background-color: #5D417F;
+	color: white;
+}
+
+.pagelink2 {
+	background-color: white;
+	text-align: center;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+.relaxr {
+	height: 500px;
+	width: 500px;
+	background-color: #38007F;
+}
+
+.startupmatchmaker {
+	height: 500px;
+	width: 500px;
+	background-color: #9D4FFF;
+}
+
+.citipix {
+	height: 500px;
+	width: 500px;
+	background-color: #7100FF;
+}
